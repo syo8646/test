@@ -1,0 +1,22 @@
+body{
+  font: weight 500px;;
+  color: rgb(249, 245, 245);
+  font-style: italic;
+  background-color: rgb(89, 89, 237);
+
+  background-size: cover ;
+  background-position: center;
+}
+.box{
+  width: 2000px;
+  height: 80px;
+  background: #010523;
+  margin: 0 auto;/*區塊置中*/
+}
+li{
+  font-size: 25px;
+}
+h1{
+  text-align:center;
+  line-height: 100px;
+}
